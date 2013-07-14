@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "dac4157f_a406791e",
+        "filename": "prebuilt/hw_config.sh",
+        "patchSetId": 3
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2013-07-14T22:23:45Z",
+      "side": 1,
+      "message": "All the ALS related lines were removed on purpose (http://review.cyanogenmod.org/#/c/35760/) because we can use the new as3676 DASH implementation with this change in kernel: http://review.cyanogenmod.org/#/c/37490/ .",
+      "revId": "682e3a021d75c8301aaea76726dd8a4f54daf400",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
