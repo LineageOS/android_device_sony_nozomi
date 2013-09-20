@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5afe65bd_e5a0f6a7",
+        "filename": "BoardConfig.mk",
+        "patchSetId": 1
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2013-09-20T04:32:25Z",
+      "side": 1,
+      "message": "this is wrong\n\nmint -\u003e nozomi",
+      "revId": "41b9a24ff667a47de7d4da55ac11e2739da89f0a",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
